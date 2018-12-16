@@ -1,0 +1,13 @@
+**/.vscode
+*/model/
+**/.ipynb_checkpoints
+**/submit*/
+A/train
+**/*.h5
+**/__pycache__
+**/checkpoint
+**/*.zip
+**/*.tsv
+
+
+
